@@ -1,12 +1,5 @@
-import React from 'react'
-import Navbar from './components/navbar'
-
-const App = () => {
-  return (
-    <>
-    <Navbar /><Navbar />
-    </>
+function car(){
+  return(
+    <h2>Hi i am a car!</h2>
   )
 }
-
-export default App
