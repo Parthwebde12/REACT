@@ -1,10 +1,15 @@
 import React from "react";
-import Navbar from "./component/Navbar";
+import list from "./component/list";
 const App =()=>{
-  return (
-    <>
-    <div>App</div>
-  </>
+   
+  let arr = ['apple','mango','banana','orange','thursday']
+
+  return(
+    <div>
+      {arr.map((item)=>{
+        return <list props ={item}/>
+      })}
+    </div>
   )
 }
 
