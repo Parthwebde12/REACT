@@ -2,14 +2,16 @@ import logo from './logo.svg';
 import './App.css';
 import Navbar from './components/Navbar';
 import Textform from './components/Textform';
+import About from './components/About';
 
 function App() {
-  return (
+  return (                                                               //ctrl + / for comment out the sentence
     <>
-  <Navbar title="TextUtils" about="about TextUtils"/>
+  <Navbar title="TextUtils" about="Home"/>
   <div className="container my-3">
-  <Textform heading="enter the text to analyze"/>
-  </div>
+  {/* <Textform heading="enter the text to analyze"/> */}
+  <About/>
+    </div>
     </>
   );
 }
