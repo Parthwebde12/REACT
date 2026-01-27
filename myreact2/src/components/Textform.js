@@ -19,9 +19,6 @@ export default function Textform(props) {
     setText(" ")
   }
 
-  const property4 = () =>{
-    setText(text.match)
-  }
 
 
   return (
@@ -49,9 +46,7 @@ export default function Textform(props) {
         <button className="btn btn-primary mx-3" onClick={handleclearClick}>
           Clear
         </button>
-    <button className="btn btn-primary mx-3" onClick={property4}>
-               lenght
-        </button>
+        
       </div>
 
       <div className="container my-3">
