@@ -17,5 +17,11 @@ const Navbar = ({color}) => {
     <div>I am a {color} navbar</div>
   )
 }
+useEffect(() => {
+    alert("Hey welcome to my page. this is first  render of jsx")
+    return () => {
+      alert("mounted")
+    }, []
+  }
 
 export default Navbar

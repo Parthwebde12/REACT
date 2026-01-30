@@ -8,8 +8,14 @@ function App() {
     <>
       <Navbar/>  
          <div className='cards'>
-              <Cards/>
-         </div>
+              <Cards title="card 1" description="card 1 desc"/>
+              <Cards title="card 2" description="card 2 desc"/>
+              <Cards title="card 3" description="card 3 desc"/>
+              <Cards title="card 4" description="card 4 desc"/>
+              
+              
+               
+         </div>9
 
              
       <Footer/>

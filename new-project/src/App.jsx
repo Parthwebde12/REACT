@@ -14,12 +14,7 @@ function App() {
     setColor(color + 1)
   }, [count])
 
-  useEffect(() => {
-    alert("Hey welcome to my page. this is first  render of jsx")
-    return () => {
-      alert("mounted")
-    }, []
-  }
+  
 
   return (
     <>
