@@ -37,8 +37,9 @@ ${product.old_price}
   </div>
   </div>
   <div className="productdisplay-right-description">
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, eaque. Amet reiciendis minus modi eum soluta hic autem, rem corrupti quibusdam? Quam omnis saepe et expedita ratione, quasi unde repudiandae.
-  </div>
+    Shop trendy, comfortable clothing for men, women, and children — all in one place.
+Quality styles for every age, every season, and every occasion.
+</div>
   <div className='productdisplay-right-size'>
     <h1>Select Size</h1>
     <div className="productdisplay-right-sizes">

@@ -13,12 +13,15 @@ const Description = () => {
             
         </div>
         <div className="descriptionbox-description">
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Praesentium reiciendis exercitationem amet totam nisi ullam cumque fugit magnam laudantium. Quis eos quam alias nisi explicabo ut, itaque qui fuga officiis.
-                Maxime labore in molestiae, debitis vel, rem modi repudiandae ullam ipsam delectus dolores quibusdam reiciendis, hic temporibus beatae at aut possimus reprehenderit. Adipisci aut corporis iusto, excepturi quidem possimus omnis?
-                Molestias ipsam, odit maxime aperiam magnam quo debitis explicabo accusamus placeat unde inventore qui voluptate distinctio. Dolorem in pariatur ullam error adipisci earum officiis fugit unde, blanditiis, harum minus cumque.
-                Eligendi doloribus, officiis temporibus minima facilis officia est necessitatibus numquam blanditiis cum dignissimos vel unde fugit perspiciatis distinctio magnam, eos, qui repellendus quidem sunt nemo! Culpa facilis deserunt iure asperiores.
+                <p>Discover stylish, comfortable, and affordable clothing for **men, women, and children** — all in one place. Our collection features everyday essentials, trendy outfits, seasonal wear, 
+                  and special occasion styles designed for all ages. From smart casuals and workwear to playful kids’ fashion and 
+                  cozy basics, every piece is crafted with quality fabrics, modern designs, and a perfect fit in mind. Whether you’re
+                   shopping for yourself or your family, enjoy fashion that blends comfort, durability, and style effortlessly.
+
              </p>
-             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sed doloremque facilis neque non nihil quam veritatis a. Ratione dolore debitis quia possimus natus quo consequatur exercitationem quae unde, laboriosam iure!</p>
+             <p>Shop trendy, comfortable clothing for men, women, and children — all in one place.
+Quality styles for every age, every season, and every occasion.
+</p>
             </div>
     </div>
   )
